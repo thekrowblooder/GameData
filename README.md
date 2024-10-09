@@ -1,3 +1,6 @@
+#Ruta de instalación
+El contenido se deberá remplazar en la carpeta "C:\Users\TuUsuario\AppData\Local\SilentHill2\Saved\Config\Windows"
+
 # Ajustes de Configuración del Juego
 
 Este archivo describe los ajustes de configuración para optimizar y personalizar el rendimiento gráfico y de juego en los archivos `GameUserSettings.ini` y `Engine.ini`. A continuación se detallan los parámetros más importantes que puedes modificar.
